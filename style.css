@@ -6,6 +6,7 @@ h1 {
     font-size: 5em;
     color: green;
     position: absolute;
+    text-align: center;
     left: 50%;
     top: 50%;
 }
